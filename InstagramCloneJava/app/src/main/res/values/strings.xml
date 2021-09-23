@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InstagramCloneJava</string>
+    
+    <string name="get_help_signing_in"> <u>Giriş yapamıyorsan iletişime geç canım kardeşim</u> </string>
+
+    <string name="login_with_facebook"> <u>Facebook ile gir</u> </string>
+
+    <string name="sign_up"> <u>Kaydol</u> </string>
+
+</resources>
